@@ -1,0 +1,30 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_165E9276_0F0C_D65E_41AA_E6CB671B0261.label = 1_ entrada
+panorama_1656607E_0F0C_B24E_4157_499D2378514B.label = 2_ sillones entrada
+panorama_1669A9B0_0F0C_B2D2_4182_AD77DACCC4F2.label = 3_ recepción
+panorama_1668B304_0F0B_57B2_4171_4A819FAF379A.label = 4_ circulación
+panorama_1668FC0B_0F0B_51B6_4195_550C94A50C75.label = 5_ circulación 2
+panorama_16577536_0F0B_73DE_4199_5A4216179C7F.label = 6_ salón multifuncional
+
+## Skin
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.jpg
+
+### Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Biblioteca Dr. Rafael Picó 
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Universitaria, San Juan
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Biblioteca Dr. Rafael Picó, UPR Planificación 
